@@ -6,10 +6,6 @@
 
 I'm a second-year CSE (AI/ML) student who likes building real things — browser extensions, websites, IoT projects, and apps — and learning by shipping them.
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jtr-0901&theme=onedark)
-
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jtr-0901)
